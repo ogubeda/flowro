@@ -1,5 +1,5 @@
 import './App.css'
-import { AppRouterProvider } from './plugins/app-router-provider'
+import { AppRouterProvider } from './plugins/router/app-router-provider'
 
 function App() {
 

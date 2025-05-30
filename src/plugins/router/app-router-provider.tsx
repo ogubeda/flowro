@@ -1,4 +1,4 @@
-import { routeTree } from "@/router"
+import { routeTree } from "@/plugins/router/router"
 import { createRouter, RouterProvider } from "@tanstack/react-router"
 
 
